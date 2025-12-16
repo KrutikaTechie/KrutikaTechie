@@ -1,28 +1,62 @@
-# Hi there, I'm Your Krutika 👋
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=300&color=071190&multiline=true&width=450&lines=Aspiring+Java+developer+;+Computer+Science+student" alt="Typing SVG" /></a>
-## About Me
-- 🔭 I’m currently working on [Your Current Project or Interest]
-- 🌱 I’m learning [Something You're Learning]
-- 💬 Ask me about [Topics You're Knowledgeable In]
-- 📫 How to reach me: [Your Email or Contact]
-- ⚡ Fun fact: [A Fun Fact About You]
+<h1 align="center">🌸 Hey there, I’m Krutika! ✨</h1>
 
-## Skills
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-<!-- Add more badges as needed -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=3000&pause=900&color=FFB6C1&center=true&vCenter=true&width=520&lines=Building+Mini+Projects+🚀;Learning+Java+Step+by+Step+🌱;Exploring+Logic+%26+Core+Concepts+🧠;Growing+One+Line+of+Code+at+a+Time+✨" />
+</p>
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=07B1FC&center=true&vCenter=true&width=400&lines=%F0%9F%92%BB+About+Me" alt="About Me Typing Animation"/>
+</p>
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([Your LinkedIn URL])
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)]([Your Twitter URL])
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=google-chrome&logoColor=white)]([Your Website URL])
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="22"/> 🚀 Building <b>mini projects</b> to sharpen my coding skills<br/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="22"/> 🌱 Learning <b>Java programming</b> step-by-step<br/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="22"/> 🧠 Exploring <b>core CS concepts & logic building</b><br/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="22"/> ✨ Passionate about <b>continuous learning & growth</b>
+</p>
 
-<!-- Animated GIF or Image -->
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=F78FB3&center=true&vCenter=true&width=400&lines=+Skills+%26+Tools" alt="Skills & Tools Typing Animation"/>
+</p>
 
----
-⭐ From [Your Location] | [Any Other Info]
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Web-HTML5%2FCSS3%2FJS-orange?style=for-the-badge&logo=html5&logoColor=white" alt="Web Dev"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Data Analysis"/>
+  <img src="https://img.shields.io/badge/App_Development-Android-green?style=for-the-badge&logo=android&logoColor=white" alt="App Dev"/>
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=FF6F61&center=true&vCenter=true&width=400&lines=%F0%9F%9A%80+Projects" alt="Projects Typing Animation"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="24"/> <b>Mini Project 1:</b> Java Calculator <br/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="24"/> <b>Mini Project 2:</b> Personal Portfolio Website <br/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="24"/> <b>Mini Project 3:</b> Data Analysis with Python <br/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=F5A623&center=true&vCenter=true&width=450&lines=%F0%9F%93%AC+Let%27s+Connect" alt="Let's Connect Typing Animation"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="22"/> ✉️ <b>Email:</b> <a href="mailto:Krutikamudchawade@gmail.com">Krutikamudchawade@gmail.com</a><br/><br/>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="22"/> 📸 <b>Instagram:</b> <a href="https://instagram.com/Kru.tika401" target="_blank">Kru.tika401</a><br/><br/>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="22"/> 💬 <b>Discord:</b> <a href="YOUR_DISCORD_INVITE_LINK" target="_blank">DuGGu_1-DoN</a><br/><br/>
+</p>
+<p align="center">
+  <br>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="22"/> ▶️ <b>YouTube:</b> Krutka : )
+</br>
+</p>
+
+
+<p align="center">
+🌼 <i>“Small steps today, big achievements tomorrow.”</i> 🌼
+</p>
